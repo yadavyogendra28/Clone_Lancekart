@@ -1,0 +1,112 @@
+body {
+    background-color: white;
+}
+
+.topheader {
+    font-size: small;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav1 {
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    height: 23px;
+    color: black;
+    font-weight: 100;
+}
+
+.glassdiv {
+    border: 5px solid white;
+    width: 200px;
+    height: 118px;
+    background-color: white;
+    margin-left: 9px;
+    font-family: Cambria;
+    color: rgb(207, 193, 193);
+    margin-top: 5px;
+
+}
+
+.glassdivCon{
+                border: 5px solid white;
+                width: 200px;
+                height: 145px;
+                background-color: white;
+                margin-left: 9px;
+                font-family: cambria;
+                box-shadow: 10px;
+              
+}
+
+
+
+.glassdiv:hover{ width: 190px; height: 108px;  }
+
+
+.glassdivCon:hover{ background-color: blanchedalmond;}
+
+.footerdiv1{ background-color:rgb(9, 9, 51); width:auto; height: 550px;}
+
+.FooterPara1{ margin-left:50px; margin-right: 15px; }
+
+
+#footer1{
+
+    width: 100%;
+    height: 130px;
+    border: 1px solid palegoldenrod;
+    text-decoration: none;
+   
+    
+
+}
+
+.fth1{
+
+    float: right;
+    margin-right: 115px;
+    color: white;
+}
+
+.ftSicon1{
+position: absolute;
+ margin-top: 50px;
+ margin-left: 1240px; 
+ 
+}
+
+
+.ftSicon2{
+    position: absolute;
+     margin-top: 50px;
+     margin-left: 1190px; 
+    }
+
+ .ftSicon3{
+        position: absolute;
+         margin-top: 50px;
+         margin-left: 1140px; 
+        }
+  .ftSicon4{
+            position: absolute;
+             margin-top: 50px;
+             margin-left: 1090px; 
+            }
+
+  .ftSicon5{
+                position: absolute;
+                 margin-top: 50px;
+                 margin-left: 1040px; 
+                }
+
+
+.fthr1{
+    
+    margin-top: 80px;
+}
+
+
+
+

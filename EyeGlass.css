@@ -1,0 +1,15 @@
+.TextParaghrap1 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.Button_viewRange { width: 110px;
+                    height: 45px;
+                   background-color: rgb(54, 150, 146);
+                   color: white;
+                   font-weight: bold;
+                   border: none;
+                   text-align: center;
+                   margin-left: 550%;
+                    }
